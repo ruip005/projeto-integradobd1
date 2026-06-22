@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\app_code\\gestordados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|solutionrelative:app_code\\gestordados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\badges.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|solutionrelative:badges.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|c:\\users\\admin\\documents\\github\\projeto-integradobd1\\webforms\\softinsabadgesweb\\badges.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|solutionrelative:badges.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|c:\\users\\admin\\documents\\github\\projeto-integradobd1\\webforms\\softinsabadgesweb\\badges.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C63E5D-7368-42D6-B429-2D67C9EF2A1A}|SoftinsaBadgesWeb.csproj|solutionrelative:badges.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Badges.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\Badges.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Badges.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\Badges.aspx.designer.cs",
+              "RelativeToolTip": "Badges.aspx.designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:04:59.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Badges.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\Badges.aspx.cs",
+              "RelativeDocumentMoniker": "Badges.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\Badges.aspx.cs",
+              "RelativeToolTip": "Badges.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:38:13.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Badges.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\Badges.aspx",
+              "RelativeDocumentMoniker": "Badges.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\Badges.aspx",
+              "RelativeToolTip": "Badges.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-06-22T08:37:58.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-22T08:36:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestorDados.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\App_Code\\GestorDados.cs",
+              "RelativeDocumentMoniker": "App_Code\\GestorDados.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\projeto-integradobd1\\webforms\\SoftinsaBadgesWeb\\App_Code\\GestorDados.cs",
+              "RelativeToolTip": "App_Code\\GestorDados.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAArwDgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:33:28.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

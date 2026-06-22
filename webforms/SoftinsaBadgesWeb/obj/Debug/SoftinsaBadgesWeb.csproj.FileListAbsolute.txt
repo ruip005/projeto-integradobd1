@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\GitHub\projeto-integradobd1\webforms\SoftinsaBadgesWeb\bin\SoftinsaBadgesWeb.dll.config
+C:\Users\admin\Documents\GitHub\projeto-integradobd1\webforms\SoftinsaBadgesWeb\bin\SoftinsaBadgesWeb.dll
+C:\Users\admin\Documents\GitHub\projeto-integradobd1\webforms\SoftinsaBadgesWeb\bin\SoftinsaBadgesWeb.pdb
+C:\Users\admin\Documents\GitHub\projeto-integradobd1\webforms\SoftinsaBadgesWeb\obj\Debug\SoftinsaBadgesWeb.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\projeto-integradobd1\webforms\SoftinsaBadgesWeb\obj\Debug\SoftinsaBadgesWeb.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\projeto-integradobd1\webforms\SoftinsaBadgesWeb\obj\Debug\SoftinsaBadgesWeb.dll
+C:\Users\admin\Documents\GitHub\projeto-integradobd1\webforms\SoftinsaBadgesWeb\obj\Debug\SoftinsaBadgesWeb.pdb
